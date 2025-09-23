@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Raj 👋  
 
-<!--
-**rajsprajapati/rajsprajapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Backend Developer | AI/ML Enthusiast | Full-Stack Learner**  
 
-Here are some ideas to get you started:
+I’m passionate about building scalable backend systems, integrating AI/ML in real-world apps, and exploring new technologies.  
+Currently diving deeper into **Node.js, Express, PostgreSQL, Flask, and React**, while exploring **.NET and Blockchain**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python, JavaScript (Node.js, React), SQL  
+- **Backend**: Express.js, Flask  
+- **Databases**: PostgreSQL, MongoDB, MySQL  
+- **AI/ML & CV**: OpenCV 
+- **Tools**: Git, GitHub, Docker, Postman
+
+---
+
+## 📌 Featured Projects
+🔹 [Human Rights Adviser](#) – AI-powered RAG system providing legal advice on human rights laws  
+🔹 [Smart Surveillance](#) – Real-time person detection and alert system using OpenCV + Flask  
+🔹 [Book Review App](#) – Backend with Express.js & PostgreSQL, JWT authentication  
+🔹 [GST Filing Service](#) – Helping small businesses simplify GST return filing  
+
+---
+
+## 📊 GitHub Stats
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajprajapati123&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajprajapati123&layout=compact&theme=radical)  
+  
+
+---
+
+## 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/raj-prajapati-575661244/)  
+- 📧 Email: raj.sbprj@gmail.com 
+
+---
+
+✨ *“Code. Learn. Share. Repeat.”*  
+
