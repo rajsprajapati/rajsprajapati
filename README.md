@@ -19,8 +19,7 @@ Currently diving deeper into **Node.js, Express, PostgreSQL, Flask, and React**,
 ## 📌 Featured Projects
 🔹 [Human Rights Adviser](#) – AI-powered RAG system providing legal advice on human rights laws  
 🔹 [Smart Surveillance](#) – Real-time person detection and alert system using OpenCV + Flask  
-🔹 [Book Review App](#) – Backend with Express.js & PostgreSQL, JWT authentication  
-🔹 [GST Filing Service](#) – Helping small businesses simplify GST return filing  
+🔹 [Book Review App](#) – Backend with Express.js & PostgreSQL, JWT authentication
 
 ---
 
